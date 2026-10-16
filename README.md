@@ -478,7 +478,7 @@ Use this sentence pattern:
 - **Dashboard design:** custom navy and orange theme, icons, slicers, navigation buttons
 
 ## 🚀 How to Use the Dashboard
-1. Open `[FileName].pbix` in Power BI Desktop.
+1. Open `Sales-Profitability-People-Performance-Dashboard.pbix` in Power BI Desktop.
 2. Use the slicers on the left (**Month**, **Brand**, **Profitstatus**) to filter the data.
 3. Use the arrow at the bottom-right of Page 1 to open **What Drives Sales Profitability**, and the back arrow to return.
 4. Use the orange header button to switch between **Sales & Business** and **Customer & Employee** pages.
