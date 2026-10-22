@@ -457,23 +457,14 @@ Use this sentence pattern:
 4. How are Growth, Customer Purchase and Employee Active defined?
 5. Is there any seasonality in the first half of the year?
 
-### ⚠️ Risks to Watch
-
-| Risk | Mitigation |
-|---|---|
-| Reading 2016 as a full year | Always show data coverage and compare H1 vs H1 |
-| A pilot hurts customer relationships | Keep it small, time-limited, and reversible |
-| Bundles lower the margin | Check margin per bundle before launch |
-| Metric labels that don't match what is counted | Rename visuals and document each measure |
-| Small samples in some segments | Check the population count before acting on a segment |
 
 ---
 
 ## 🧰 Tools Used
 - **Power BI Desktop**
-- **Power Query:** data cleaning and preparation `[add your steps]`
-- **DAX measures:** Total Sales · Total Profit · Profit Margin · Sales Growth · Orders · Quantity `[add your measures]`
-- **Data Modeling:** relationships between Sales, Customer, Employee, Product, City and Date `[add your model]`
+- **Power Query:** data cleaning and preparation 
+- **DAX measures:** Total Sales · Total Profit · Profit Margin · Sales Growth · Orders · Quantity 
+- **Data Modeling:** relationships between Sales, Customer, Employee, Product, City and Date 
 - **AI Visuals:** Key Influencers · Top Segments
 - **Dashboard design:** custom navy and orange theme, icons, slicers, navigation buttons
 
@@ -484,7 +475,7 @@ Use this sentence pattern:
 4. Use the orange header button to switch between **Sales & Business** and **Customer & Employee** pages.
 5. On the profitability page, switch between **Key influencers** and **Top segments**, and change the dropdown (Decrease/Increase, Low/High) to see other angles.
 6. To compare 2016 fairly, select **Month = Jan–Jun** and compare across years.
-7. If you change the data: **Home → Refresh**.
+
 
 ---
 
