@@ -450,12 +450,6 @@ Use this sentence pattern:
 
 > 📝 Targets should be set by the business after the Phase 1 baseline. Figures above are current values from the dashboard, and the directions are the recommended goals.
 
-### ❓ Questions to Confirm With the Data Owner Before Presenting
-1. Is protecting the ~50% margin the top priority, or is growth?
-2. Are price changes allowed at all, or only incentives?
-3. What does "Unknown" customer mean in your business?
-4. How are Growth, Customer Purchase and Employee Active defined?
-5. Is there any seasonality in the first half of the year?
 
 
 ---
