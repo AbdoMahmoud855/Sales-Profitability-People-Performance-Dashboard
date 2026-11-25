@@ -4,7 +4,8 @@ An interactive **three-page Power BI dashboard** that tells the story of **402 c
 
 **Data range:** January 2013 → May 2016. 2016 covers **five months only** (the Sales & Cost matrix shows Qtr 1 and Qtr 2, with Qtr 2 holding April and May), so every "2016 drop" in this report should be read with that in mind. See [Reading 2016 Correctly](#-reading-2016-correctly).
 
-![Sales & Business Performance](images/01-sales-business-performance.png)
+<img width="1194" height="660" alt="image" src="https://github.com/user-attachments/assets/9d52ed35-181e-4f20-b25f-c86a7823b068" />
+
 
 ---
 
@@ -35,6 +36,7 @@ An interactive **three-page Power BI dashboard** that tells the story of **402 c
 ---
 
 ## ❓ Questions This Dashboard Answers
+<img width="1194" height="660" alt="image" src="https://github.com/user-attachments/assets/b90a12a7-9379-45d7-a068-76e45f54615d" />
 
 ### Page 1 — Sales & Business Performance
 
@@ -48,6 +50,7 @@ An interactive **three-page Power BI dashboard** that tells the story of **402 c
 | Profit vs Loss | How much of the activity is profitable? | 97.86% Profit vs 2.14% Loss |
 
 ### Page 2 — What Drives Sales Profitability
+<img width="1361" height="708" alt="image" src="https://github.com/user-attachments/assets/1c9968f2-aa1a-44d0-88d3-6388d4248557" />
 
 | View | Question | Short Answer |
 |---|---|---|
@@ -58,6 +61,7 @@ An interactive **three-page Power BI dashboard** that tells the story of **402 c
 | Top Segments: Low | Which groups earn the least? | Average profit from 19.42 up to 181.9 |
 
 ### Page 3 — Customer & Employee Performance
+
 
 | Chart | Question | Short Answer |
 |---|---|---|
@@ -108,7 +112,8 @@ The data ends in **May 2016**, so 2016 holds five months. Comparing its total wi
 
 ## 📄 Page 1 — Sales & Business Performance
 
-![Sales & Business Performance](images/01-sales-business-performance.png)
+
+
 
 ### 📖 Page Story
 
@@ -217,6 +222,8 @@ Average order value is about **$2,428** ($19.88M ÷ 8,188 orders).
 ## 📄 Page 2 — What Drives Sales Profitability
 
 This page uses two Power BI AI visuals: **Key Influencers** (with an *Increase / Decrease* dropdown) and **Top Segments** (with a *High / Low* dropdown).
+<img width="1361" height="708" alt="image" src="https://github.com/user-attachments/assets/16a2ec49-4269-45c9-a07c-dc51b09bb85f" />
+<img width="1290" height="717" alt="image" src="https://github.com/user-attachments/assets/7fc505e1-3f65-4ceb-bbda-8298f396305c" />
 
 ### 📖 Page Story
 
@@ -304,7 +311,8 @@ Overall average profit: **375.9**
 
 ## 📄 Page 3 — Customer & Employee Performance
 
-![Customer & Employee Performance](images/05-customer-employee-performance.png)
+![Uploading image.png…]()
+
 
 ### 📖 Page Story
 
