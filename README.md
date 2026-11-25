@@ -36,7 +36,8 @@ An interactive **three-page Power BI dashboard** that tells the story of **402 c
 ---
 
 ## ❓ Questions This Dashboard Answers
-<img width="1194" height="660" alt="image" src="https://github.com/user-attachments/assets/b90a12a7-9379-45d7-a068-76e45f54615d" />
+
+<img width="1236" height="683" alt="image" src="https://github.com/user-attachments/assets/718e1fba-fb80-4a4a-b78a-1a131c4093fa" />
 
 ### Page 1 — Sales & Business Performance
 
@@ -51,6 +52,7 @@ An interactive **three-page Power BI dashboard** that tells the story of **402 c
 
 ### Page 2 — What Drives Sales Profitability
 <img width="1361" height="708" alt="image" src="https://github.com/user-attachments/assets/1c9968f2-aa1a-44d0-88d3-6388d4248557" />
+<img width="1261" height="714" alt="image" src="https://github.com/user-attachments/assets/db951aad-0181-4df6-a188-61516021880f" />
 
 | View | Question | Short Answer |
 |---|---|---|
@@ -61,6 +63,8 @@ An interactive **three-page Power BI dashboard** that tells the story of **402 c
 | Top Segments: Low | Which groups earn the least? | Average profit from 19.42 up to 181.9 |
 
 ### Page 3 — Customer & Employee Performance
+
+<img width="1205" height="680" alt="image" src="https://github.com/user-attachments/assets/01fa39bb-b90c-4e5d-a36e-5d4b61327d31" />
 
 
 | Chart | Question | Short Answer |
@@ -113,6 +117,7 @@ The data ends in **May 2016**, so 2016 holds five months. Comparing its total wi
 ## 📄 Page 1 — Sales & Business Performance
 
 
+<img width="1236" height="683" alt="image" src="https://github.com/user-attachments/assets/b28c84f8-4094-4efa-be0d-6c986dffb6ac" />
 
 
 ### 📖 Page Story
@@ -222,7 +227,7 @@ Average order value is about **$2,428** ($19.88M ÷ 8,188 orders).
 ## 📄 Page 2 — What Drives Sales Profitability
 
 This page uses two Power BI AI visuals: **Key Influencers** (with an *Increase / Decrease* dropdown) and **Top Segments** (with a *High / Low* dropdown).
-<img width="1361" height="708" alt="image" src="https://github.com/user-attachments/assets/16a2ec49-4269-45c9-a07c-dc51b09bb85f" />
+<img width="1289" height="715" alt="image" src="https://github.com/user-attachments/assets/28dd7c01-bfc8-4902-bf29-9a00d36eb890" />
 <img width="1290" height="717" alt="image" src="https://github.com/user-attachments/assets/7fc505e1-3f65-4ceb-bbda-8298f396305c" />
 
 ### 📖 Page Story
@@ -238,6 +243,7 @@ This page uses two Power BI AI visuals: **Key Influencers** (with an *Increase /
 **Bottom line.** Profit is made in bigger orders and higher-priced items; small, low-priced orders are numerous but earn very little.
 
 ### ⬆️ Key Influencers — What Influences Profit to *Increase*
+<img width="1279" height="712" alt="image" src="https://github.com/user-attachments/assets/4f2e0f9d-0c7a-4467-bb85-6811cce7b554" />
 
 | Condition | Average Profit Increases By |
 |---|---:|
@@ -254,10 +260,11 @@ This page uses two Power BI AI visuals: **Key Influencers** (with an *Increase /
 | Unit Price 16 – 24 (column chart) | Profit is more likely to increase when Unit Price is 16 – 24 (average excluding selected: 346.78) |
 
 **Insight:** Unit price above 36 is the strongest influencer on the page, followed by order value and a mid-size quantity range (26–120 units).
+<img width="1289" height="715" alt="image" src="https://github.com/user-attachments/assets/28dd7c01-bfc8-4902-bf29-9a00d36eb890" />
 
-![Key Influencers – Increase](images/02-key-influencers-increase.png)
 
 ### ⬇️ Key Influencers — What Influences Profit to *Decrease*
+<img width="1261" height="714" alt="image" src="https://github.com/user-attachments/assets/0dd00d55-ff84-4f79-8705-824f3c8a0112" />
 
 | Condition | Average Profit Decreases By |
 |---|---:|
@@ -273,7 +280,6 @@ This page uses two Power BI AI visuals: **Key Influencers** (with an *Increase /
 
 **Insight:** Profit is tied to order value more than anything else, and low unit prices (16 and below) also pull profit down.
 
-![Key Influencers – Decrease](images/03-key-influencers-decrease.png)
 
 ### 🔵 Scatter Plot — Total Excluding Tax vs Average Profit
 
@@ -282,6 +288,7 @@ The x-axis shows **Total Excluding Tax** (0 to 20K) and the y-axis shows **Avera
 **Insight:** As order value rises, average profit rises almost proportionally. A few points sit far above the line (up to roughly 9K profit at about 11K order value), representing deals with unusually high profit.
 
 ### 🎯 Top Segments — *High* Profit
+<img width="1291" height="721" alt="image" src="https://github.com/user-attachments/assets/9e864f43-084c-4969-bc92-96871d463beb" />
 
 Overall average profit: **375.9**
 
@@ -294,6 +301,7 @@ Overall average profit: **375.9**
 
 ### 🎯 Top Segments — *Low* Profit
 
+<img width="1275" height="723" alt="image" src="https://github.com/user-attachments/assets/1ac0a76d-0d6d-4549-85da-b8f3e55d1e53" />
 | Segment | Rule (Sum of Total Excluding Tax) | Average Profit | Data Points | Share of Data |
 |---|---|---:|---:|---:|
 | 1 | up to 60 | 19.42 | 3,702 | 14.0% |
@@ -305,13 +313,13 @@ Overall average profit: **375.9**
 
 **Insight:** Every segment is defined by order value. The best high-profit segment earns **≈ 7.8× the overall average** and **≈ 150× the weakest low-profit segment** (2,930 ÷ 19.42), with a much smaller population (1,283 vs 3,702 records). Low-profit segments 1–4 together cover about **47.8% of the data**.
 
-![Top Segments](images/04-top-segments.png)
+<img width="1249" height="705" alt="image" src="https://github.com/user-attachments/assets/1f89c4b7-e5d3-48ce-9b10-38098264dbb1" />
 
 ---
 
 ## 📄 Page 3 — Customer & Employee Performance
+<img width="1245" height="687" alt="image" src="https://github.com/user-attachments/assets/2011f9cd-e944-4d37-82b1-71806120d4fe" />
 
-![Uploading image.png…]()
 
 
 ### 📖 Page Story
