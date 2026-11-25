@@ -302,6 +302,7 @@ Overall average profit: **375.9**
 ### 🎯 Top Segments — *Low* Profit
 
 <img width="1275" height="723" alt="image" src="https://github.com/user-attachments/assets/1ac0a76d-0d6d-4549-85da-b8f3e55d1e53" />
+
 | Segment | Rule (Sum of Total Excluding Tax) | Average Profit | Data Points | Share of Data |
 |---|---|---:|---:|---:|
 | 1 | up to 60 | 19.42 | 3,702 | 14.0% |
